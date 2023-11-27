@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      student
+HostName                       cad23
+ProcessIdentifier              6737
+ProcessCreationTime_UTC        1701060976
+ProcessCreationTime_Readable   Mon Nov 27 10:26:16 2023 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/student/Documents/1si20ec009/anubhav/inverter_test/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Nov 27 12:46:06 2023 IST
