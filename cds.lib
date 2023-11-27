@@ -1,0 +1,7 @@
+SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
+DEFINE anubhav /home/student/Documents/1si20ec009/anubhav
+DEFINE t_gates /home/student/Documents/1si20ec009/t_gates
+DEFINE tgates /home/student/Documents/1si20ec009/tgates
+DEFINE flip_flops /home/student/Documents/1si20ec009/flip_flops
+#Removed by ddDeleteObj: DEFINE xor /home/student/Documents/1si20ec009/xor
+DEFINE xor_gate /home/student/Documents/1si20ec009/xor_gate

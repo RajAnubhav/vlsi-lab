@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      student
+HostName                       cad23
+ProcessIdentifier              8199
+ProcessCreationTime_UTC        1701060979
+ProcessCreationTime_Readable   Mon Nov 27 10:26:19 2023 IST
+AppIdentifier                  /home/install/IC618/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/student/Documents/1si20ec009/libManager.log
+TimeEditLocked                 Mon Nov 27 10:26:52 2023 IST
